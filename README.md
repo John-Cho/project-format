@@ -20,23 +20,58 @@
 [style] : "plastic", "flat", "flat-square", "for-the-badge", "social"
 ```
 
+`이건 뒤에 강조!`
+
 ## Description
 __1. Contents__
+
+* Issue, Target, 
+
 __2. Summary__
 
+## Specification
+__1. Base Board__ 
+
+* (ESP32, Arduino Uno, nRF52840, etc)
+
+__2. Hardware Spec__ 
+
+* (Clock, Interface, flash size, etc)
+
+__3. Environment (IDE, Window)__ 
+
+* (ESP-IDF 4.4, Segger Embedded Studio 2.1.0, etc)
+
 ## Getting Started
-__1. Installation__
+__1. Installation__ 
+
+* (How to install for environment)
+
 __2. Compile__
+
+* (How to compile)
+
 __3. Execution__
+
+* (How to excute)
 
 ## About Project
 __1. Diagram (UML)__
+
+* (Insert system diagram.)
+
 __2. Android APP__
+
+* (If you have an app in your project, insert a wire-frame for app.)
+
 __3. Firmware__
+* (If you have an Firmware in your project, insert a schematics and console program.)
+
+
 
 ## Result
-__1. H/W__
-__2. S/W__
-__3. Machine__
+__1. Video__
+
+*
 
 ## Reference
